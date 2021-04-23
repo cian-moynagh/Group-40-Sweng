@@ -24,15 +24,6 @@ pip install dash-bootstrap-components
 
 ## Content
 
-<--
-This repository contains two main things. The main file that showcases the project is the Time Series Analysis on Stocks Prediction.ipynb file
-Then we have the rough work folder. In this folder, we have all the work leading up to our final product. This includes:
-* Different types of models(e.g. AR, MA etc.)
-* Different ways of normalizing the data (e.g square root transformation, box cox, log transformation etc.)
-* Files testing and working with the yahoo API
-* Files working with the dash interface
--->
-
 This folder contains two things. The assets folder and the Time Series Analysis on Stocks Prediction.ipynb file. 
 The assests folder hold pictures used for the dash
 The file is used to showcase the project
