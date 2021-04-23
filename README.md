@@ -16,3 +16,14 @@ pip install dash-bootstrap-components
 
 Then launch jupyter notebook through the anaconda navigator.
 Then open and run the Time Series Analysis on Stocks Prediction.ipynb file
+This will launch the dash which showcases the project
+
+
+## Content
+
+This repository contains two main things. The main file that showcases the project is the Time Series Analysis on Stocks Prediction.ipynb file
+Then we have the rough work folder. In this folder, we have all the work leading up to our final product. This includes:
+* Different types of models(e.g. AR, MA etc.)
+* Different ways of normalizing the data (e.g square root transformation, box cox, log transformation etc.)
+* Files testing and working with the yahoo API
+* FIles working with the dash interface
